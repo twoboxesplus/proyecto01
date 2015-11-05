@@ -1,0 +1,2 @@
+1. Se debe agregar la seleccion de jornada dentro del proceso de preinscripción.
+2. Se debe agregar la funcionalidad de cambiar jornada.

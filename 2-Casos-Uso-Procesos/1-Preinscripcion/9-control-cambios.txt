@@ -1,0 +1,2 @@
+1. Se debe realizar la preinscripción por paquete de formación.
+2. Se debe quitar la seleccion de jornada dentro del proceso de preinscripción.
